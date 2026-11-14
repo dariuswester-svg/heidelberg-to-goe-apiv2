@@ -12,7 +12,7 @@ Das Gateway liest die Wallbox über Modbus RTU / RS485 aus und stellt die verfü
 Das Gateway läuft vollständig lokal:
 
 keine Cloud
-kein externer Server<img width="2048" height="1536" alt="nodemcu" src="https://github.com/user-attachments/assets/b779a290-a2c6-4a0e-ab3e-e9ba638e76aa" />
+kein externer Server
 keine Registrierung
 keine laufenden Kosten
 keine Änderung an Home Assistant erforderlich
@@ -578,7 +578,7 @@ Wenn dieses Projekt geholfen hat, sind ein GitHub-Stern, ein Fehlerbericht oder 
 <img width="1536" height="2048" alt="WhatsApp Image 2026-11-14 at 07 36 46" src="https://github.com/user-attachments/assets/d3c3252a-81f9-4747-a1b4-4a33d6574980" />
 <img width="2048" height="1536" alt="WhatsApp Image 2026-11-14 at 07 24 58" src="https://github.com/user-attachments/assets/c6b7245b-ebb4-4aa1-a67e-3af24bf0fe6a" />
 <img width="2048" height="1536" alt="WhatsApp Image 2026-11-14 at 07 24 58 (1)" src="https://github.com/user-attachments/assets/bb84a9ca-8d1f-44f0-a553-b1e64a83ca07" />
-
+<img width="2048" height="1536" alt="nodemcu" src="https://github.com/user-attachments/assets/b779a290-a2c6-4a0e-ab3e-e9ba638e76aa" />
 <img width="1172" height="147" alt="2026-11-14 10_42_36-WDADesktopService" src="https://github.com/user-attachments/assets/5dd92229-07ad-4bf5-8cb8-22de964386fa" />
 <img width="1167" height="926" alt="2026-11-14 10_42_31-WDADesktopService" src="https://github.com/user-attachments/assets/4e1953da-6492-4380-a75d-903af6452913" />
 <img width="1170" height="424" alt="2026-11-14 10_42_20-Greenshot" src="https://github.com/user-attachments/assets/a47806c0-3026-4cf1-adab-01cad65369c5" />
