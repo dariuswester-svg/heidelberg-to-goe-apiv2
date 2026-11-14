@@ -12,7 +12,11 @@ Das Gateway liest die Wallbox über Modbus RTU / RS485 aus und stellt die verfü
 Das Gateway läuft vollständig lokal:
 
 keine Cloud
-kein externer Server
+kein externer Server<img width="2048" height="1536" alt="nodemcu" src="https://github.com/user-attachments/assets/b779a290-a2c6-4a0e-ab3e-e9ba638e76aa" />
+<img width="1536" height="2048" alt="WhatsApp Image 2026-11-14 at 07 36 46" src="https://github.com/user-attachments/assets/d3c3252a-81f9-4747-a1b4-4a33d6574980" />
+<img width="2048" height="1536" alt="WhatsApp Image 2026-11-14 at 07 24 58" src="https://github.com/user-attachments/assets/c6b7245b-ebb4-4aa1-a67e-3af24bf0fe6a" />
+<img width="2048" height="1536" alt="WhatsApp Image 2026-11-14 at 07 24 58 (1)" src="https://github.com/user-attachments/assets/bb84a9ca-8d1f-44f0-a553-b1e64a83ca07" />
+
 keine Registrierung
 keine laufenden Kosten
 keine Änderung an Home Assistant erforderlich
@@ -572,3 +576,18 @@ Viel Erfolg beim Nachbau! ⚡🔌🏠
 Wenn dieses Projekt geholfen hat, sind ein GitHub-Stern, ein Fehlerbericht oder ein dokumentierter Verbesserungsvorschlag willkommen.
 
 Änderungen am Text: Ich habe den Projektstand als direkt verwendbare GitHub-README strukturiert, die erfolgreich getestete Verdrahtung und den stabilen 200-ms-Modbus-Abstand berücksichtigt, die drei Dateien einzeln beschrieben und die Grenzen gegenüber einem echten Go-E Charger klar abgegrenzt.
+
+
+
+
+
+<img width="1172" height="147" alt="2026-11-14 10_42_36-WDADesktopService" src="https://github.com/user-attachments/assets/5dd92229-07ad-4bf5-8cb8-22de964386fa" />
+<img width="1167" height="926" alt="2026-11-14 10_42_31-WDADesktopService" src="https://github.com/user-attachments/assets/4e1953da-6492-4380-a75d-903af6452913" />
+<img width="1170" height="424" alt="2026-11-14 10_42_20-Greenshot" src="https://github.com/user-attachments/assets/a47806c0-3026-4cf1-adab-01cad65369c5" />
+<img width="1171" height="939" alt="2026-11-14 10_42_05-WDADesktopService" src="https://github.com/user-attachments/assets/0e511680-b263-483a-a79b-b2039517f640" />
+<img width="810" height="164" alt="2026-11-14 10_41_40-Greenshot" src="https://github.com/user-attachments/assets/770cdc51-53d9-4f99-a44f-63d2c9057790" />
+<img width="956" height="215" alt="2026-11-14 10_43_25-Greenshot" src="https://github.com/user-attachments/assets/fffd8e2a-8e95-4d04-991e-a73464b540c6" />
+<img width="1536" height="2048" alt="wemosd1mini" src="https://github.com/user-attachments/assets/60f603d8-9728-4dd5-9459-60e8b1a13cbb" />
+<img width="2048" height="1536" alt="rs485tottl" src="https://github.com/user-attachments/assets/9fcdeb89-7622-4bc6-8871-8e349408464f" />
+<img width="2048" height="1536" alt="nodemcu" src="https://github.com/user-attachments/assets/0f994a37-bc68-403f-b872-93ee8fb1b836" />
+
