@@ -574,6 +574,9 @@ Wenn dieses Projekt geholfen hat, sind ein GitHub-Stern, ein Fehlerbericht oder 
 Änderungen am Text: Ich habe den Projektstand als direkt verwendbare GitHub-README strukturiert, die erfolgreich getestete Verdrahtung und den stabilen 200-ms-Modbus-Abstand berücksichtigt, die drei Dateien einzeln beschrieben und die Grenzen gegenüber einem echten Go-E Charger klar abgegrenzt.
 
 
+<img width="466" height="485" alt="2026-11-15 17_21_57-Greenshot" src="https://github.com/user-attachments/assets/cfd8a6c9-3c31-44ab-8392-9c0bb817f5b9" />
+<img width="718" height="331" alt="2026-11-15 17_19_53-Greenshot" src="https://github.com/user-attachments/assets/dd049813-200a-4e3f-84d1-b4c9d85a2b67" />
+
 
 <img width="1536" height="2048" alt="WhatsApp Image 2026-11-14 at 07 36 46" src="https://github.com/user-attachments/assets/d3c3252a-81f9-4747-a1b4-4a33d6574980" />
 <img width="2048" height="1536" alt="WhatsApp Image 2026-11-14 at 07 24 58" src="https://github.com/user-attachments/assets/c6b7245b-ebb4-4aa1-a67e-3af24bf0fe6a" />
